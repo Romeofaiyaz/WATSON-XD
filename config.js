@@ -8,15 +8,15 @@ import axios from 'axios'
 
 global.owner = [
   ['233558111386', 'Law(*_*)shambles', true],
-  ['2348077055971', 'IsaacAzil', true],
+  ['2348077055971', 'acane', true],
   
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['233558111386', '256772742139']
-global.prems = ['233558111386', '256772742139']
-global.allowed = ['233558111386', '256772742139']
+global.mods = ['233558111386', '2348077055971']
+global.prems = ['233558111386', '2348077055971']
+global.allowed = ['233558111386', '2348077055971']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
